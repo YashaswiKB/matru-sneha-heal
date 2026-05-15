@@ -122,5 +122,5 @@ The goal of Matru-Sneh Health is to provide accessible maternal healthcare suppo
 ![Guide](screenshots/weekly_baby-guide_English.png)
 
 ### Weekly Guide (Kannada)
-![Guide](screenshots/weekly_baby-guide-Kannada.png)
+![Guide](screenshots/weekly_baby-guide_Kannada.png)
 
