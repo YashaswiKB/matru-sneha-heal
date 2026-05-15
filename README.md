@@ -134,7 +134,7 @@ To provide a simple, offline-capable maternal health assistant that helps rural 
 
 ---
 
-## Future Improvements
+## 💡 Future Improvements
 
 AI-based pregnancy risk prediction
 Voice-based navigation for non-literate users
