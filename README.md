@@ -2,7 +2,6 @@
 
 Matru-Sneh Health is a maternal healthcare support application designed for pregnant women in rural areas.  
 It is a lightweight, offline-first mobile application built to help users track essential pregnancy health activities without constant internet access.
-
 The application is designed for first-time smartphone users with a simple, accessible, and mobile-friendly interface.
 
 ---
@@ -81,10 +80,10 @@ Shows emergency warning:
 
 ## 📱 Application Type
 
-Offline-first mobile application
-Progressive Web App (PWA)
-Android-compatible via Capacitor
-Responsive UI optimized for low-end devices
+-Offline-first mobile application
+-Progressive Web App (PWA)
+-Android-compatible via Capacitor
+-Responsive UI optimized for low-end devices
 
 ---
 
@@ -101,6 +100,7 @@ Responsive UI optimized for low-end devices
 
 ## 📂 Project Structure
 
+```plaintext id="fix2"
 matru-sneh-health/
 │
 ├── src/
@@ -114,8 +114,7 @@ matru-sneh-health/
 ├── screenshots/
 ├── package.json
 ├── README.md
-
----
+```
 
 ## Development Information
 
