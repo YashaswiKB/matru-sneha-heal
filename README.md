@@ -101,16 +101,16 @@ The goal of Matru-Sneh Health is to provide accessible maternal healthcare suppo
 
 ### Home Screen
 
-![Home](screenshots/homescreen.png)
+![Home](screenshots/home-screen.png)
 
 ### Home Screen(kannada)
-![Home](screenshots/homescreen_kannada.png)
+![Home](screenshots/home-screen-kannada.png)
 
 ### Kick Counter
-![Kick Counter](screenshots/kickcounter.png)
+![Kick Counter](kick-counter.png)
 
 ### Nutrition Tracker
-![Nutrition](screenshots/nutrition_plate.png)
+![Nutrition](screenshots/nutrition-tracker.png)
 
 ### Checkup Countdown
 ![Checkup](screenshots/checkup-countdown.png)
@@ -119,7 +119,7 @@ The goal of Matru-Sneh Health is to provide accessible maternal healthcare suppo
 ![Alert](screenshots/danger-alert.png)
 
 ### Weekly Guide (English)
-![Guide](screenshots/weeklybabyguide-english.png)
+![Guide](screenshots/weekly-guide-english.png)
 
 ### Weekly Guide (Kannada)
 ![Guide](screenshots/weekly-guide-kannada.png)
