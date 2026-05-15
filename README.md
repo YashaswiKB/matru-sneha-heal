@@ -97,5 +97,29 @@ The application was developed using React with Capacitor for cross-platform Andr
 The goal of Matru-Sneh Health is to provide accessible maternal healthcare support for rural pregnant women through a lightweight offline-capable mobile application.
 
 ---
+## 📸 Screenshots
 
+### Home Screen
+![Home](screenshots/home-screen.png)
+
+### Home Screen(kannada)
+![Home](screenshots/home-screen-kannada.png)
+
+### Kick Counter
+![Kick Counter](screenshots/kick-counter.png)
+
+### Nutrition Tracker
+![Nutrition](screenshots/nutrition-tracker.png)
+
+### Checkup Countdown
+![Checkup](screenshots/checkup-countdown.png)
+
+### Danger Alert
+![Alert](screenshots/danger-alert.png)
+
+### Weekly Guide (English)
+![Guide](screenshots/weekly-guide-english.png)
+
+### Weekly Guide (Kannada)
+![Guide](screenshots/weekly-guide-kannada.png)
 
