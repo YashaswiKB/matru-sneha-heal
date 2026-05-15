@@ -100,19 +100,18 @@ Shows emergency warning:
 
 ## 📂 Project Structure
 
-```plaintext id="fix2"
+```plaintext
 matru-sneh-health/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   ├── assets/
 │
 ├── android/
 ├── public/
 ├── screenshots/
+├── src/
+├── capacitor.config.ts
+├── vite.config.ts
 ├── package.json
+├── package-lock.json
+├── tsconfig.json
 ├── README.md
 ```
 
